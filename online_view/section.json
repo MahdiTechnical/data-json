@@ -1,1 +1,25 @@
 
+{
+    "sections": [
+      {
+        "id": "kurd1",
+        "title": "مقام كرد",
+        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/main/kurd_updated.json"
+      },
+      {
+        "id": "BasicOther1",
+        "title": "شرح بشكل عام",
+        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/main/basicother.json"
+      },
+      {
+        "id": "Shahat1",
+        "title": "مدرسة الشيخ الشحات",
+        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/shahat.json"
+      },
+      {
+        "id": "Mustafa1",
+        "title": " الشيخ مصطفى اسماعيل",
+        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/shahat.json"
+      }
+    ]
+  }
