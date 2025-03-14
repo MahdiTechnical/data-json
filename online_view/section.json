@@ -5,6 +5,11 @@
         "id": "اaltoor_aliraqi",
         "title": "الطور العراقي",
         "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/online_view/alatooar_aliraqi/muqamat_basic.json"
+      },
+          {
+        "id": "saba",
+        "title": "صبا",
+        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/online_view/alatooar_aliraqi/muqamat_basic.json"
       }
     ]
   }
