@@ -1,6 +1,8 @@
 {
  
 "العجم": [
+{
+"العجم": [
     {
       "id": "1",
       "title": "1-عجم - سورة آل عمؤان",
@@ -21,7 +23,8 @@
       "releaseYear": "",
       "ayat": " وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ ۖ قَدْ شَغَفَهَا حُبًّا ۖ إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ ﴿30﴾",
       "url": "https://firebasestorage.googleapis.com/v0/b/muqamat2quran.appspot.com/o/mustafaIsmaeel%2Fajam%2Fajam_nesoah.mp3?alt=media&token=187ebe69-4361-4a8a-9b97-a473653e7ab5"
-    }],
+    }]}
+      ],
 "البيات":[
     {
       "id": "1",
