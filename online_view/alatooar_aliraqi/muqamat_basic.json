@@ -534,5 +534,345 @@
         }
       ]
     }
+  ],
+  "البيات": [
+    {
+      "البيات": [
+        {
+          "id": "1",
+          "title": "1- البيات - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=4Cvg_edJi3g"
+        },
+        {
+          "id": "2",
+          "title": "2- البيات - القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=msS2QVRbAkI"
+        },
+        {
+          "id": "3",
+          "title": "3- البيات - القارئ طه ياسين محمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=1ttK2B8jccE"
+        },
+        {
+          "id": "4",
+          "title": "4- الحافظ خليل اسماعيل - البيات",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=vKH4zuMkcbk"
+        },
+        {
+          "id": "5",
+          "title": "5- رتل عراقي - مقام البيات - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=VTJ32yuSSOE"
+        },
+        {
+          "id": "6",
+          "title": "6- الاذان بمقام البيات - القارئ محمد جعفر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=wyeOofJBKP0"
+        },
+        {
+          "id": "7",
+          "title": "7- الاذان بمقام البيات - القارئ محمد رياض الجبوري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=QHi1E5FeXm8"
+        }
+      ],
+      "عتابة البيات والبهيرزاوي": [
+        {
+          "id": "1",
+          "title": "1- عتابة البيات والبهيرزاوي - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=q_RtxQEOvgk"
+        },
+        {
+          "id": "2",
+          "title": "2- سورة هود - القارئ بهاء الدين احمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=yRLThppk4No"
+        },
+        {
+          "id": "3",
+          "title": "3- سورة الحج - القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=f9Wu8bBWoD4"
+        },
+        {
+          "id": "4",
+          "title": "4- سورة ابراهيم - القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=gNMg8gOpCI8"
+        },
+        {
+          "id": "5",
+          "title": "5- للحافظ خليل اسماعيل ",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=dmMHsEihk6M"
+        }
+      ],
+      "الشرقي دوكاه": [
+        {
+          "id": "1",
+          "title": "1- الشرقي دوكاه - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=Fl8N832oxfA"
+        },
+        {
+          "id": "2",
+          "title": "2- الشرقي دوكاه بصوت القارئ عبد المعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=6D_rvcwkYz8"
+        },
+        {
+          "id": "3",
+          "title": "3- سورة هود - الحافظ خليل اسماعيل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=DSaQL647MDk"
+        },
+        {
+          "id": "4",
+          "title": "4- مقام الشرقي دوكاه - القارئ مصطفى محمد مهدي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=and0V98-YTE"
+        },
+        {
+          "id": "5",
+          "title": "5- الاستاذ حيدر الكاظمي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=qewCy3HtBv4"
+        }
+      ],
+      "الحسيني": [
+        {
+          "id": "1",
+          "title": "1- القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=GhRMmgcvc2E"
+        },
+        {
+          "id": "2",
+          "title": "2- القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=X9Z1m5_eUdQ"
+        },
+        {
+          "id": "3",
+          "title": "3- الحافظ خليل اسماعيل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=V4BlH85COjY"
+        },
+        {
+          "id": "4",
+          "title": "4- الحافظ خليل اسماعيل سورة النجم",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=pfGxCvzIhGY"
+        },
+        {
+          "id": "5",
+          "title": "5- القارئ عمر عبد القادر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=qT2x_erilwc"
+        }
+      ],
+      "الدشت": [
+        {
+          "id": "1",
+          "title": "1- الدشت - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=MncFWwwZpzU"
+        },
+        {
+          "id": "2",
+          "title": "2- الدشت وابو عطا - القارئ بلاسم جليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=rcu0l9BRkKc"
+        },
+        {
+          "id": "3",
+          "title": "3- الدشت - القارئ بهاء الدين احمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=Pu_qGuMXXkA"
+        },
+        {
+          "id": "4",
+          "title": "4- القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=uO6abkkOd5M"
+        },
+        {
+          "id": "5",
+          "title": "5- الحافظ خليل اسماعيل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=wa2VP4r2QX8"
+        },
+        {
+          "id": "6",
+          "title": "6- الدشت - الحافظ خليل اسماعيل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=sxnDIHdoaRU"
+        }
+      ],
+      "الحياوي": [
+        {
+          "id": "1",
+          "title": "1- الحياوي - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=pnVNqmm7cXo"
+        },
+        {
+          "id": "2",
+          "title": "2- القارئ بلاسم جليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=GIfFBLSJgIE"
+        },
+        {
+          "id": "3",
+          "title": "3- القارئ عبد المعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=6lxz0autbDw"
+        },
+        {
+          "id": "4",
+          "title": "4- الحافظ خليل اسماعيل - سورة هود",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=ACaK0AJWTOk"
+        },
+        {
+          "id": "5",
+          "title": "5- منير عاشور نغمة الحياوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=j1Mo-cgCjYo"
+        }
+      ],
+      "الجبوري": [
+        {
+          "id": "1",
+          "title": "1- الجبوري - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=QcBV3vdR940"
+        },
+        {
+          "id": "2",
+          "title": "2- الجبوري - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=J2ce-TAQSq4"
+        },
+        {
+          "id": "3",
+          "title": "3- الجبوري - القارئ عبد المعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=nUAHc50-Lcg"
+        },
+        {
+          "id": "4",
+          "title": "4- الاذان بمقام الجبوري - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=9tcHO4tslF4"
+        },
+        {
+          "id": "5",
+          "title": "5- القارئ بهاء الدين احمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=SCWvfyOemCs"
+        },
+        {
+          "id": "6",
+          "title": "6- الجبوري بصوت مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=rJJMjgTxGjs"
+        },
+        {
+          "id": "7",
+          "title": "7- سورة الزمر - القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=xr40ipts8Zs"
+        },
+        {
+          "id": "8",
+          "title": "8- سورة ال عمران - الحافظ خليل اسماعيل ",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=RWkMHtGUrKk"
+        }
+      ],
+      "النوروز عجم": [
+        {
+          "id": "1",
+          "title": "1- النوروز عجم - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=a6Nr6AkKCNc"
+        },
+        {
+          "id": "2",
+          "title": "2- النوروز عجم - الحافظ خليل اسماعيل - سورة الفرقان",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=SMfZVFIufVw"
+        },
+        {
+          "id": "3",
+          "title": "3- النوروز عجم - الحافظ خليل اسماعيل ",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=dsG8RS795aw"
+        },
+        {
+          "id": "4",
+          "title": "4- سورة الأعراف- القارئ محمد هاشم عسكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=Z9zTMG_X4PA"
+        },
+        {
+          "id": "5",
+          "title": "5- سورة الصف - القارئ سلمان محمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=2CaiL1Zt3do"
+        }
+      ],
+      "الاورفة": [
+        {
+          "id": "1",
+          "title": "1- الاورفة - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=uUfHBQyH5H4"
+        },
+        {
+          "id": "2",
+          "title": "2- الاورفة - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=0e69dKrY4nw"
+        },
+        {
+          "id": "3",
+          "title": "3- الاورفة - القارئ بلاسم جليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=drNnUCWsDYA"
+        },
+        {
+          "id": "4",
+          "title": "4- الاورفة - الحافظ خليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=zcN5FaBN0Cg"
+        },
+        {
+          "id": "5",
+          "title": "5- الاورفة - الحافظ خليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=LsvD65YTTuU"
+        },
+        {
+          "id": "6",
+          "title": "6- سورة الزمر - القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=ONk_c5aAHM4"
+        },
+        {
+          "id": "7",
+          "title": "7- سورة العنكبوت - القارئ مصطفى رعد العزاوي ",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=m5RIjagLGcU"
+        }
+      ]
+    }
   ]
 }
