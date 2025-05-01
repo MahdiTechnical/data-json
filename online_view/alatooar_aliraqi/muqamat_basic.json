@@ -874,5 +874,117 @@
         }
       ]
     }
+  ],
+  "السيكا": [
+    {
+      "الهزام": [
+        {
+          "id": "1",
+          "title": "1- السيكا (الهزام) - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=2QhhYgZGsJM"
+        },
+        {
+          "id": "2",
+          "title": "2- سورة الدخان - الحافظ خليل اسماعيل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=TdCzJThC2mY"
+        },
+        {
+          "id": "3",
+          "title": "3- سورة محمد - الحافظ خليل اسماعيل ",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=4A9_UDAL88Q"
+        },
+        {
+          "id": "4",
+          "title": "4- الاذان بمقام السيكا - القارئ محمد جعفر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=Pu6S7W0Yvj0"
+        },
+        {
+          "id": "5",
+          "title": "5- اذان بمقام السيكا - القارئ محمد رياض الجبوري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=bTif0eOsR9M&t=2s"
+        }
+      ],
+      "الجمال": [
+        {
+          "id": "1",
+          "title": "1- مقام الجمّال - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=zHmZ7NCwb9E"
+        },
+        {
+          "id": "2",
+          "title": "2- القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=vwAduyOjDHU"
+        },
+        {
+          "id": "3",
+          "title": "3- الجمّال بصوت القارئ عبد المعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=1c9sxZS9qd8"
+        },
+        {
+          "id": "4",
+          "title": "4- الاذان بمقام الجمَّال - القارئ الحاج عبد المعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=5jSeHfgGGuw"
+        },
+        {
+          "id": "5",
+          "title": "5- سورة الانفال - القارئ بهاء الدين احمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=UYFAjMpYAIY"
+        },
+        {
+          "id": "6",
+          "title": "6- اذان بمقام الجمَّال - القارئ بهاء الدين احمد",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=_YbveiDvAoE"
+        }
+      ],
+      "الحكيمي": [
+        {
+          "id": "1",
+          "title": "1- الحكيمي - القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=fWXRCo9Hnoo"
+        },
+        {
+          "id": "2",
+          "title": "2- الحكيمي (من السيكا) القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=uPN2F63v3Ns"
+        },
+        {
+          "id": "3",
+          "title": "3- القارئ محمد مشاري",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=D84G8jlQC6M"
+        },
+        {
+          "id": "4",
+          "title": "4- الحكيمي - القارئ بلاسم جليل",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=hVZmRiwDyCQ"
+        },
+        {
+          "id": "5",
+          "title": "5- القارئ مصطفى رعد العزاوي",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=sU_HEoBVfmQ"
+        },
+        {
+          "id": "6",
+          "title": "6- القارئ عبدالمعز شاكر",
+          "ayat": "",
+          "url": "https://www.youtube.com/watch?v=7W0y9daCyPk"
+        }
+      ]
+    }
   ]
 }
