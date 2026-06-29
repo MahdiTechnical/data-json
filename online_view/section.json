@@ -1,10 +1,14 @@
-
 {
-    "sections": [
-      {
-        "id": "اaltoor_aliraqi",
-        "title": "الطور العراقي",
-        "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/online_view/alatooar_aliraqi/muqamat_basic.json"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "id": "اaltoor_aliraqi",
+      "title": "الطور العراقي",
+      "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/online_view/alatooar_aliraqi/muqamat_basic.json"
+    },
+    {
+      "id": "try",
+      "title": "تجربة",
+      "contentUrl": "https://raw.githubusercontent.com/MahdiTechnical/data-json/refs/heads/main/online_view/alatooar_aliraqi/muqamat_basic.json"
+    }
+  ]
+}
